@@ -17,3 +17,4 @@ Route::get('/', 'CompanyProfile@index');
 Route::get('/about', 'CompanyProfile@about');
 Route::get('/education', 'CompanyProfile@education');
 Route::get('/skills', 'CompanyProfile@skill');
+Route::get('/experience', 'CompanyProfile@experience');

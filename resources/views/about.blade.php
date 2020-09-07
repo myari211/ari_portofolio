@@ -26,10 +26,12 @@
                         <i class="fas fa-leaf"></i>
                     </button>
                 </a>
-                <button type="button" class="btn purple-gradient animated bounce infinite delay-5s">
-                    Experience&nbsp;
-                    <i class="fas fa-briefcase"></i>
-                </button>
+                <a href="/experience">
+                    <button type="button" class="btn purple-gradient animated bounce infinite delay-5s">
+                        Experience&nbsp;
+                        <i class="fas fa-briefcase"></i>
+                    </button>
+                </a>
             </div>
         </div>
         <div class="col-lg-6 d-flex justify-content-lg-start justify-content-center">

@@ -22,4 +22,8 @@ class CompanyProfile extends Controller
     public function skill(){
         return view('skill');
     }
+
+    public function experience(){
+        return view('experience');
+    }
 }
