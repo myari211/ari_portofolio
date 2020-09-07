@@ -1,7 +1,7 @@
 @extends('layouts.app')
 @section('content')
 <div class="d-flex middle">
-    <div class="container lg flex-center" style="height:768px;">
+    <div class="container lg flex-center">
         <div class="row d-lg-flex align-items-lg-center align-items-start d-none d-lg-block d-md-none">
             <div class="col-lg-6 d-none d-lg-block d-md-none">
                 <div class="row animated fadeInLeftBig delay-2s">
@@ -12,7 +12,7 @@
                 </div>
                 <div class="row animated fadeInLeftBig delay-2s">
                     <h3>
-                        <span class="text-danger"><i class="fab fa-laravel"></i>&nbsp;PHP Laravel</span>
+                        <span class="text-danger"><i class="fab fa-laravel"></i>&nbsp;Laravel</span>
                         <span class="text-purple ml-2 mr-2"><i class="fab fa-bootstrap"></i>&nbsp;Bootstrap</span> 
                         <span class="text-warning"><i class="fab fa-js"></i>&nbsp;JS</span>
                     </h3>
@@ -45,7 +45,7 @@
             </div>
             <div class="row d-flex justify-content-md-center">
                 <h3>
-                    <span class="text-danger animated fadeInUpBig delay-3s"><i class="fab fa-laravel"></i>&nbsp;PHP Laravel</span>
+                    <span class="text-danger animated fadeInUpBig delay-3s"><i class="fab fa-laravel"></i>&nbsp;Laravel</span>
                     <span class="text-purple ml-2 mr-2 animated fadeInUpBig delay-4s"><i class="fab fa-bootstrap"></i>&nbsp;Bootstrap</span> 
                     <span class="text-warning animated fadeInUpBig delay-5s "><i class="fab fa-js"></i>&nbsp;JS</span>
                 </h3>

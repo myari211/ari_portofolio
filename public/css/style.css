@@ -11,6 +11,40 @@
     width:600px;
 }
 
+.laravel{
+    width:300px;
+}
+
+.bg-laravel{
+    background-color:#EF533F;
+}
+
+.text-laravel{
+    color:#EF533F;
+}
+.bg-abu{
+    background-color:black;
+}
+.bootstrap{
+    width:100px;
+    margin:25px;
+}
+
+.bg-bootstrap{
+    background-color:#563D7C;
+}
+.text-bootstrap{
+    color:#563D7C;
+}
+
+.text-javascript{
+    color:#F7DF1E;
+}
+
+.bg-javascript{
+    background-color:#F7DF1E;
+}
+
 .icon{
     width:250px;
 }
@@ -21,4 +55,22 @@
 
 .top{
     margin-top:180px;
+}
+
+.laravel-hp{
+    background-color:#a81207;
+}
+
+.bootstrap-icon{
+    width:100px;
+    height:100px;
+    margin:12px;
+}
+
+.bootstrap-hp{
+    background-color:#3d2b59;
+}
+
+.bg-github{
+    background-color:#000;
 }
