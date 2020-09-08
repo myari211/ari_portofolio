@@ -29,7 +29,7 @@
             <div class="card card-cascade wider pl-4 mt-4">
                 <div class="view view-cascade overlay">
                     <div class="row">
-                        <div class="col-lg-6 mx-auto" style="margin-top:40px;">
+                        <div class="col-sm-6 mx-auto" style="margin-top:40px;">
                             <div class="row pl-3">
                                 <h4 class="text-bootstrap">
                                     <i class="fab fa-bootstrap"></i>&nbsp;Bootstrap
@@ -99,62 +99,62 @@
 
     <div class="d-block d-lg-none">
         <div class="container">
-            <div class="card bg-laravel">
+            <div class="card bg-laravel animated bounceIn">
                 <div class="row">
-                    <div class="col-md-5 bg-white d-flex justify-content-center">
+                    <div class="col-sm-6 bg-white d-flex justify-content-center">
                         <img src="{{ asset('img/laravel-ar21.svg') }}" class="icon">
                     </div>
-                    <div class="col-md-7 pr-4">
-                        <h4 class="mt-3 text-right text-white">
+                    <div class="col-sm-6">
+                        <h4 class="mt-3 text-center text-white">
                             Laravel&nbsp;<i class="fab fa-laravel"></i>
                         </h4>
-                        <div class="progress mt-4 laravel-hp" style="height:10px;">
-                            <div class="progress-bar bg-white" role="progressbar" style="width:90%;" aria-valuenow="80" aria-valuemin="0" aria-valuemax="100"></div>
+                        <div class="progress mt-3 mb-4 mr-2 ml-2 bg-white" style="height:7px;">
+                            <div class="progress-bar laravel-hp animated fadeInLeft delay-1s" role="progressbar" style="width:90%;" aria-valuenow="80" aria-valuemin="0" aria-valuemax="100"></div>
                         </div>
                     </div>
                 </div>
             </div>
-            <div class="card bg-bootstrap mt-4">
+            <div class="card bg-bootstrap mt-4 animated bounceIn">
                 <div class="row">
-                    <div class="col-md-5 bg-white d-flex justify-content-center">
+                    <div class="col-sm-6 bg-white d-flex justify-content-center">
                         <img src="{{ asset('img/bootstrap.svg') }}" class="bootstrap-icon">
                     </div>
-                    <div class="col-md-7 pr-4">
-                        <h4 class="mt-3 text-right text-white">
+                    <div class="col-sm-6">
+                        <h4 class="mt-3 text-center text-white">
                             Bootstrap&nbsp;<i class="fab fa-bootstrap"></i>
                         </h4>
-                        <div class="progress mt-4 bootstrap-hp" style="height:10px;">
-                            <div class="progress-bar bg-white" role="progressbar" style="width:90%;" aria-valuenow="80" aria-valuemin="0" aria-valuemax="100"></div>
+                        <div class="progress mt-2 mb-4 mr-2 ml-2 bg-white" style="height:7px;">
+                            <div class="progress-bar bootstrap-hp animated fadeInLeft delay-1s" role="progressbar" style="width:90%;" aria-valuenow="80" aria-valuemin="0" aria-valuemax="100"></div>
                         </div>
                     </div>
                 </div>
             </div>
-            <div class="card bg-javascript mt-4">
+            <div class="card bg-javascript mt-4 animated bounceIn">
                 <div class="row">
-                    <div class="col-md-5 bg-white d-flex justify-content-center">
+                    <div class="col-sm-6 bg-white d-flex justify-content-center">
                         <img src="{{ asset('img/javascript.svg') }}" class="bootstrap-icon">
                     </div>
-                    <div class="col-md-7 pr-4">
-                        <h4 class="mt-3 text-right">
+                    <div class="col-sm-6">
+                        <h4 class="mt-3 text-center">
                             JavaScript&nbsp;<i class="fab fa-js"></i>
                         </h4>
-                        <div class="progress mt-4 bootstrap-hp" style="height:10px;">
-                            <div class="progress-bar bg-white" role="progressbar" style="width:90%;" aria-valuenow="80" aria-valuemin="0" aria-valuemax="100"></div>
+                        <div class="progress mt-2 mb-4 mr-2 ml-2 bg-white" style="height:7px;">
+                            <div class="progress-bar javascript-hp animated fadeInLeft delay-1s" role="progressbar" style="width:60%;" aria-valuenow="60" aria-valuemin="0" aria-valuemax="100"></div>
                         </div>
                     </div>
                 </div>
             </div>
-            <div class="card bg-dark mt-4">
+            <div class="card bg-dark mt-4 mb-4 animated bounceIn">
                 <div class="row">
-                    <div class="col-md-5 bg-white d-flex justify-content-center">
+                    <div class="col-sm-6 bg-white d-flex justify-content-center">
                         <img src="{{ asset('img/github-1.svg') }}" class="bootstrap-icon">
                     </div>
-                    <div class="col-md-7 pr-4">
-                        <h4 class="mt-3 text-right text-white">
+                    <div class="col-sm-6">
+                        <h4 class="mt-3 text-center text-white">
                             Github&nbsp;<i class="fab fa-github"></i>
                         </h4>
-                        <div class="progress mt-4" style="height:10px;">
-                            <div class="progress-bar bg-white" role="progressbar" style="width:90%;" aria-valuenow="80" aria-valuemin="0" aria-valuemax="100"></div>
+                        <div class="progress mt-2 mb-4 mr-2 ml-2" style="height:7px;">
+                            <div class="progress-bar github-hp animated fadeInLeft delay-1s" role="progressbar" style="width:80%;" aria-valuenow="80" aria-valuemin="0" aria-valuemax="100"></div>
                         </div>
                     </div>
                 </div>

@@ -106,7 +106,7 @@
     </div>
 
     {{-- responsive --}}
-    <div class="container d-none d-md-block d-lg-none">
+    <div class="container d-block d-lg-none">
         <div class="row justify-content-center wow zoomIn">
             <h3>Educa<span class="text-purple">tion</span></h3>
         </div>

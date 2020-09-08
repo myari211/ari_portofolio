@@ -71,6 +71,22 @@
     background-color:#3d2b59;
 }
 
+.javascript-hp{
+    background-color:#dbc619;
+}
+
 .bg-github{
     background-color:#000;
+}
+
+.github-hp{
+    background-color:#4b4a41;
+}
+
+.fontS{
+    font-size:30px;
+}
+
+.fontL{
+    font-size:25px;
 }
